@@ -105,13 +105,14 @@ const defaultSongs = [
   { title: "Stay With Me", artist: "Sam Smith" },
   { title: "Too Good At Goodbyes", artist: "Sam Smith" },
   { title: "Love Me Like You Do", artist: "Ellie Goulding" },
-  { title: "Photograph", artist: "Ed Sheeran" },
   { title: "Closer", artist: "The Chainsmokers ft. Halsey" },
   { title: "Something Just Like This", artist: "The Chainsmokers & Coldplay" },
   { title: "Counting Stars", artist: "OneRepublic" },
   { title: "Apologize", artist: "OneRepublic" },
   { title: "Demons", artist: "Imagine Dragons" },
   { title: "Believer", artist: "Imagine Dragons" },
+
+  // Maroon 5
   { title: "This Love", artist: "Maroon 5" },
   { title: "She Will Be Loved", artist: "Maroon 5" },
   { title: "Sunday Morning", artist: "Maroon 5" },
@@ -122,16 +123,53 @@ const defaultSongs = [
   { title: "Girls Like You", artist: "Maroon 5 ft. Cardi B" },
   { title: "Memories", artist: "Maroon 5" },
   { title: "Payphone", artist: "Maroon 5 ft. Wiz Khalifa" },
-  { title: "Blinding Lights", artist: "The Weeknd" },
-  { title: "Save Your Tears", artist: "The Weeknd" },
-  { title: "Starboy", artist: "The Weeknd ft. Daft Punk" },
-  { title: "Die For You", artist: "The Weeknd" },
+
+  // The Weeknd - thêm
   { title: "The Hills", artist: "The Weeknd" },
-  { title: "Call Out My Name", artist: "The Weeknd" },
   { title: "I Feel It Coming", artist: "The Weeknd ft. Daft Punk" },
   { title: "Can't Feel My Face", artist: "The Weeknd" },
   { title: "Earned It", artist: "The Weeknd" },
-  { title: "In Your Eyes", artist: "The Weeknd" }
+  { title: "In Your Eyes", artist: "The Weeknd" },
+
+  // Rihanna / Others
+  { title: "We Found Love", artist: "Rihanna ft. Calvin Harris" },
+  { title: "Diamonds", artist: "Rihanna" },
+  { title: "Stay", artist: "Rihanna ft. Mikky Ekko" },
+  { title: "Love The Way You Lie", artist: "Eminem ft. Rihanna" },
+  { title: "Just Give Me a Reason", artist: "P!nk ft. Nate Ruess" },
+  { title: "A Thousand Miles", artist: "Vanessa Carlton" },
+  { title: "Bleeding Love", artist: "Leona Lewis" },
+  { title: "Secrets", artist: "OneRepublic" },
+  { title: "Viva La Vida", artist: "Coldplay" },
+  { title: "Yellow", artist: "Coldplay" },
+  { title: "Paradise", artist: "Coldplay" },
+  { title: "The Scientist", artist: "Coldplay" },
+  { title: "Lights", artist: "Ellie Goulding" },
+  { title: "Rather Be", artist: "Clean Bandit ft. Jess Glynne" },
+  { title: "Fireflies", artist: "Owl City" },
+  { title: "Hey, Soul Sister", artist: "Train" },
+  { title: "Call Me Maybe", artist: "Carly Rae Jepsen" },
+
+  // Epic / Anthemic
+  { title: "A Sky Full of Stars", artist: "Coldplay" },
+  { title: "Adventure of a Lifetime", artist: "Coldplay" },
+  { title: "Every Teardrop Is a Waterfall", artist: "Coldplay" },
+  { title: "Pompeii", artist: "Bastille" },
+  { title: "Wake Me Up", artist: "Avicii" },
+  { title: "Take Me to Church", artist: "Hozier" },
+  { title: "Little Talks", artist: "Of Monsters and Men" },
+  { title: "It's Time", artist: "Imagine Dragons" },
+
+  // Avicii - thêm
+  { title: "The Nights", artist: "Avicii" },
+  { title: "Waiting For Love", artist: "Avicii" },
+  { title: "Hey Brother", artist: "Avicii" },
+  { title: "Without You", artist: "Avicii ft. Sandro Cavazza" },
+  { title: "Levels", artist: "Avicii" },
+  { title: "The Days", artist: "Avicii" },
+  { title: "Heaven", artist: "Avicii" },
+  { title: "Broken Arrows", artist: "Avicii" },
+  { title: "For A Better Day", artist: "Avicii" }
 ];
 
 // Các mốc thời gian (giây)
